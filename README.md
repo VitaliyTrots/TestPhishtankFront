@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployment
+
+1. Clone this repository to your computer: `git clone <link_to_repository>`
+2. Install all dependencies: `yarn install` or `npm install`
+3. Adjust environment variables. At the moment you must set up variable baseUrl in file /src/config.js
+4. Run the app: `yarn start` or `npm run start`
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -60,10 +67,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `yarn build` fails to minify
 
